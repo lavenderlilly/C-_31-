@@ -1,4 +1,4 @@
-# C++_과제1
+#c++
 #include <iostream> //헤더파일 선언문
 using namespace std;
 
