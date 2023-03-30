@@ -1,4 +1,3 @@
-#SWING_C++
 #include <iostream> //헤더파일 선언문
 using namespace std;
 
